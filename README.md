@@ -19,3 +19,6 @@ Instead: ✔ Trained PPO agents (SB3) — ✔ Collected offline datasets — ✔
 This makes the project: fully reproducible — platform-independent — free of MuJoCo/D4RL issues — simple for students/researchers to run.
 
 ---
+
+### 🚨 Note
+Currently, **only the Hopper environment is implemented and supported** in this reimplementation.
