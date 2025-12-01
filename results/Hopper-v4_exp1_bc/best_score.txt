@@ -1,0 +1,1 @@
+{"epoch": 100, "best raw score avg": 1096.7546129176822, "best raw score std": 393.9750847697375}

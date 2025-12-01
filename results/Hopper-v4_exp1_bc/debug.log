@@ -1,0 +1,250 @@
+25-11-30.15:24|[results\Hopper-v4_exp1_bc] -----------  ----------
+25-11-30.15:24|[results\Hopper-v4_exp1_bc] Epochs       20
+25-11-30.15:24|[results\Hopper-v4_exp1_bc] BC Loss       0.0689057
+25-11-30.15:24|[results\Hopper-v4_exp1_bc] QL Loss       0
+25-11-30.15:24|[results\Hopper-v4_exp1_bc] Actor Loss    0
+25-11-30.15:24|[results\Hopper-v4_exp1_bc] Critic Loss   0
+25-11-30.15:24|[results\Hopper-v4_exp1_bc] -----------  ----------
+25-11-30.15:24|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:24|[results\Hopper-v4_exp1_bc] Eval Return  623.267
+25-11-30.15:24|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:26|[results\Hopper-v4_exp1_bc] -----------  ----------
+25-11-30.15:26|[results\Hopper-v4_exp1_bc] Epochs       40
+25-11-30.15:26|[results\Hopper-v4_exp1_bc] BC Loss       0.0431328
+25-11-30.15:26|[results\Hopper-v4_exp1_bc] QL Loss       0
+25-11-30.15:26|[results\Hopper-v4_exp1_bc] Actor Loss    0
+25-11-30.15:26|[results\Hopper-v4_exp1_bc] Critic Loss   0
+25-11-30.15:26|[results\Hopper-v4_exp1_bc] -----------  ----------
+25-11-30.15:26|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:26|[results\Hopper-v4_exp1_bc] Eval Return  591.921
+25-11-30.15:26|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:27|[results\Hopper-v4_exp1_bc] -----------  ----------
+25-11-30.15:27|[results\Hopper-v4_exp1_bc] Epochs       60
+25-11-30.15:27|[results\Hopper-v4_exp1_bc] BC Loss       0.0391022
+25-11-30.15:27|[results\Hopper-v4_exp1_bc] QL Loss       0
+25-11-30.15:27|[results\Hopper-v4_exp1_bc] Actor Loss    0
+25-11-30.15:27|[results\Hopper-v4_exp1_bc] Critic Loss   0
+25-11-30.15:27|[results\Hopper-v4_exp1_bc] -----------  ----------
+25-11-30.15:27|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:27|[results\Hopper-v4_exp1_bc] Eval Return  568.686
+25-11-30.15:27|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:29|[results\Hopper-v4_exp1_bc] -----------  ----------
+25-11-30.15:29|[results\Hopper-v4_exp1_bc] Epochs       80
+25-11-30.15:29|[results\Hopper-v4_exp1_bc] BC Loss       0.0371633
+25-11-30.15:29|[results\Hopper-v4_exp1_bc] QL Loss       0
+25-11-30.15:29|[results\Hopper-v4_exp1_bc] Actor Loss    0
+25-11-30.15:29|[results\Hopper-v4_exp1_bc] Critic Loss   0
+25-11-30.15:29|[results\Hopper-v4_exp1_bc] -----------  ----------
+25-11-30.15:29|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:29|[results\Hopper-v4_exp1_bc] Eval Return  1005.46
+25-11-30.15:29|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:30|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:30|[results\Hopper-v4_exp1_bc] Epochs       100
+25-11-30.15:30|[results\Hopper-v4_exp1_bc] BC Loss        0.0358405
+25-11-30.15:30|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:30|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:30|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:30|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:30|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:30|[results\Hopper-v4_exp1_bc] Eval Return  1096.75
+25-11-30.15:30|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:32|[results\Hopper-v4_exp1_bc] -----------  ----------
+25-11-30.15:32|[results\Hopper-v4_exp1_bc] Epochs       120
+25-11-30.15:32|[results\Hopper-v4_exp1_bc] BC Loss        0.034896
+25-11-30.15:32|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:32|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:32|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:32|[results\Hopper-v4_exp1_bc] -----------  ----------
+25-11-30.15:32|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:32|[results\Hopper-v4_exp1_bc] Eval Return  742.443
+25-11-30.15:32|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:33|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:33|[results\Hopper-v4_exp1_bc] Epochs       140
+25-11-30.15:33|[results\Hopper-v4_exp1_bc] BC Loss        0.0341062
+25-11-30.15:33|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:33|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:33|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:33|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:33|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:33|[results\Hopper-v4_exp1_bc] Eval Return  571.671
+25-11-30.15:33|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:35|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:35|[results\Hopper-v4_exp1_bc] Epochs       160
+25-11-30.15:35|[results\Hopper-v4_exp1_bc] BC Loss        0.0332081
+25-11-30.15:35|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:35|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:35|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:35|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:35|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:35|[results\Hopper-v4_exp1_bc] Eval Return  545.709
+25-11-30.15:35|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:37|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:37|[results\Hopper-v4_exp1_bc] Epochs       180
+25-11-30.15:37|[results\Hopper-v4_exp1_bc] BC Loss        0.0325557
+25-11-30.15:37|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:37|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:37|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:37|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:37|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:37|[results\Hopper-v4_exp1_bc] Eval Return  481.704
+25-11-30.15:37|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:38|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:38|[results\Hopper-v4_exp1_bc] Epochs       200
+25-11-30.15:38|[results\Hopper-v4_exp1_bc] BC Loss        0.0317813
+25-11-30.15:38|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:38|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:38|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:38|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:38|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:38|[results\Hopper-v4_exp1_bc] Eval Return  772.704
+25-11-30.15:38|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:39|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:39|[results\Hopper-v4_exp1_bc] Epochs       220
+25-11-30.15:39|[results\Hopper-v4_exp1_bc] BC Loss        0.0311529
+25-11-30.15:39|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:39|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:39|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:39|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:39|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:39|[results\Hopper-v4_exp1_bc] Eval Return  735.095
+25-11-30.15:39|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:41|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:41|[results\Hopper-v4_exp1_bc] Epochs       240
+25-11-30.15:41|[results\Hopper-v4_exp1_bc] BC Loss        0.0305797
+25-11-30.15:41|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:41|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:41|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:41|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:41|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:41|[results\Hopper-v4_exp1_bc] Eval Return  657.789
+25-11-30.15:41|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:42|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:42|[results\Hopper-v4_exp1_bc] Epochs       260
+25-11-30.15:42|[results\Hopper-v4_exp1_bc] BC Loss        0.0300492
+25-11-30.15:42|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:42|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:42|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:42|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:42|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:42|[results\Hopper-v4_exp1_bc] Eval Return  538.767
+25-11-30.15:42|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:44|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:44|[results\Hopper-v4_exp1_bc] Epochs       280
+25-11-30.15:44|[results\Hopper-v4_exp1_bc] BC Loss        0.0292835
+25-11-30.15:44|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:44|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:44|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:44|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:44|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:44|[results\Hopper-v4_exp1_bc] Eval Return  959.039
+25-11-30.15:44|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:45|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:45|[results\Hopper-v4_exp1_bc] Epochs       300
+25-11-30.15:45|[results\Hopper-v4_exp1_bc] BC Loss        0.0288786
+25-11-30.15:45|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:45|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:45|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:45|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:45|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:45|[results\Hopper-v4_exp1_bc] Eval Return  597.717
+25-11-30.15:45|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:47|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:47|[results\Hopper-v4_exp1_bc] Epochs       320
+25-11-30.15:47|[results\Hopper-v4_exp1_bc] BC Loss        0.0281527
+25-11-30.15:47|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:47|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:47|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:47|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:47|[results\Hopper-v4_exp1_bc] -----------  ------
+25-11-30.15:47|[results\Hopper-v4_exp1_bc] Eval Return  755.44
+25-11-30.15:47|[results\Hopper-v4_exp1_bc] -----------  ------
+25-11-30.15:48|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:48|[results\Hopper-v4_exp1_bc] Epochs       340
+25-11-30.15:48|[results\Hopper-v4_exp1_bc] BC Loss        0.0276289
+25-11-30.15:48|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:48|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:48|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:48|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:48|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:48|[results\Hopper-v4_exp1_bc] Eval Return  866.946
+25-11-30.15:48|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:50|[results\Hopper-v4_exp1_bc] -----------  ----------
+25-11-30.15:50|[results\Hopper-v4_exp1_bc] Epochs       360
+25-11-30.15:50|[results\Hopper-v4_exp1_bc] BC Loss        0.027061
+25-11-30.15:50|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:50|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:50|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:50|[results\Hopper-v4_exp1_bc] -----------  ----------
+25-11-30.15:50|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:50|[results\Hopper-v4_exp1_bc] Eval Return  427.758
+25-11-30.15:50|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:51|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:51|[results\Hopper-v4_exp1_bc] Epochs       380
+25-11-30.15:51|[results\Hopper-v4_exp1_bc] BC Loss        0.0264933
+25-11-30.15:51|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:51|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:51|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:51|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:51|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:51|[results\Hopper-v4_exp1_bc] Eval Return  745.034
+25-11-30.15:51|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:53|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:53|[results\Hopper-v4_exp1_bc] Epochs       400
+25-11-30.15:53|[results\Hopper-v4_exp1_bc] BC Loss        0.0260446
+25-11-30.15:53|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:53|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:53|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:53|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:53|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:53|[results\Hopper-v4_exp1_bc] Eval Return  467.491
+25-11-30.15:53|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:54|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:54|[results\Hopper-v4_exp1_bc] Epochs       420
+25-11-30.15:54|[results\Hopper-v4_exp1_bc] BC Loss        0.0254425
+25-11-30.15:54|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:54|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:54|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:54|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:54|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:54|[results\Hopper-v4_exp1_bc] Eval Return  728.704
+25-11-30.15:54|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:56|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:56|[results\Hopper-v4_exp1_bc] Epochs       440
+25-11-30.15:56|[results\Hopper-v4_exp1_bc] BC Loss        0.0250221
+25-11-30.15:56|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:56|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:56|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:56|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:56|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:56|[results\Hopper-v4_exp1_bc] Eval Return  588.356
+25-11-30.15:56|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:57|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:57|[results\Hopper-v4_exp1_bc] Epochs       460
+25-11-30.15:57|[results\Hopper-v4_exp1_bc] BC Loss        0.0245433
+25-11-30.15:57|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:57|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:57|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:57|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:57|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:57|[results\Hopper-v4_exp1_bc] Eval Return  535.195
+25-11-30.15:57|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:59|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:59|[results\Hopper-v4_exp1_bc] Epochs       480
+25-11-30.15:59|[results\Hopper-v4_exp1_bc] BC Loss        0.0241232
+25-11-30.15:59|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.15:59|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.15:59|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.15:59|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.15:59|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.15:59|[results\Hopper-v4_exp1_bc] Eval Return  813.244
+25-11-30.15:59|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.16:01|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.16:01|[results\Hopper-v4_exp1_bc] Epochs       500
+25-11-30.16:01|[results\Hopper-v4_exp1_bc] BC Loss        0.0236324
+25-11-30.16:01|[results\Hopper-v4_exp1_bc] QL Loss        0
+25-11-30.16:01|[results\Hopper-v4_exp1_bc] Actor Loss     0
+25-11-30.16:01|[results\Hopper-v4_exp1_bc] Critic Loss    0
+25-11-30.16:01|[results\Hopper-v4_exp1_bc] -----------  -----------
+25-11-30.16:01|[results\Hopper-v4_exp1_bc] -----------  -------
+25-11-30.16:01|[results\Hopper-v4_exp1_bc] Eval Return  733.876
+25-11-30.16:01|[results\Hopper-v4_exp1_bc] -----------  -------
